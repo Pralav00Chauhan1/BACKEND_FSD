@@ -1,0 +1,94 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Aarav Sharma",
+      "age": 19,
+      "course": "B.Tech",
+      "branch": "Computer Science",
+      "marks": 85,
+      "email": "aarav@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Riya Verma",
+      "age": 20,
+      "course": "B.Tech",
+      "branch": "Information Technology",
+      "marks": 90,
+      "email": "riya@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Aditya Singh",
+      "age": 19,
+      "course": "B.Tech",
+      "branch": "Electronics",
+      "marks": 78,
+      "email": "aditya@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Ananya Gupta",
+      "age": 20,
+      "course": "B.Tech",
+      "branch": "Computer Science",
+      "marks": 95,
+      "email": "ananya@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Rahul Kumar",
+      "age": 21,
+      "course": "B.Tech",
+      "branch": "Mechanical",
+      "marks": 72,
+      "email": "rahul@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Priya Patel",
+      "age": 19,
+      "course": "B.Tech",
+      "branch": "Civil",
+      "marks": 88,
+      "email": "priya@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Vikash Yadav",
+      "age": 20,
+      "course": "B.Tech",
+      "branch": "Computer Science",
+      "marks": 81,
+      "email": "vikash@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Neha Sharma",
+      "age": 19,
+      "course": "B.Tech",
+      "branch": "Artificial Intelligence",
+      "marks": 92,
+      "email": "neha@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Karan Mehta",
+      "age": 21,
+      "course": "B.Tech",
+      "branch": "Data Science",
+      "marks": 86,
+      "email": "karan@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Sneha Kapoor",
+      "age": 20,
+      "course": "B.Tech",
+      "branch": "Information Technology",
+      "marks": 89,
+      "email": "sneha@gmail.com"
+    }
+  ]
+}
